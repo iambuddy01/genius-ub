@@ -1,4 +1,4 @@
-# Powered By // @ITSZSHUKLA //
+# Powered By karmaxexclusive
 
 __NAME__ = "Gʟᴏʙᴀʟ"
 __MENU__ = """
