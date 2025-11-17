@@ -1,4 +1,4 @@
-# Powered By // @ITSZSHUKLA //
+# Powered By karmaxexclusive
 
 __NAME__ = "Rᴀɪᴅs"
 __MENU__ = """
