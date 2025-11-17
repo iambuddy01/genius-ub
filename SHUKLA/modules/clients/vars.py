@@ -15,16 +15,16 @@ class Config(object):
     API_HASH = getenv("API_HASH", None)
     BOT_TOKEN = getenv("BOT_TOKEN", None)
     STRING_SESSION = getenv("STRING_SESSION", None)
-    OWNER_ID = int(getenv("OWNER_ID", "8016771632"))
+    OWNER_ID = int(getenv("OWNER_ID", "8418398264"))
     MONGO_DATABASE = getenv("MONGO_DATABASE", None)
     OWNER_USERNAME = getenv("OWNER_USERNAME", None)
   
-    SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6919199044").split()))
+    SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8418398264").split()))
   
     # OPTIONAL VARIABLES
     SESSION_STRING = getenv("SESSION_STRING", None)
     COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", ". ! > *").split())
-    USERBOT_PICTURE = getenv("USERBOT_PICTURE", "https://files.catbox.moe/23pqoe.jpg")
+    USERBOT_PICTURE = getenv("USERBOT_PICTURE", "https://files.catbox.moe/mrq0m0.jpg")
     LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", 0))
 
     # PM PERMIT 
