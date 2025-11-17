@@ -75,9 +75,9 @@ class Shukla(Client, PyTgCalls):
         if self.app.id not in Config.SUDOERS:
             Config.SUDOERS.add(int(self.app.id))
         try:
-            await self.app.join_chat("ITSZSHUKLA")
-            await self.app.join_chat("mastiwithfriendsxd")
-            await self.app.join_chat("strangerassociation")
+            await self.app.join_chat("fine_n_ok")
+            await self.app.join_chat("fine_n_ok")
+            await self.app.join_chat("fine_n_ok")
         except:
             pass
         await self.app.send_message(Config.LOG_GROUP_ID, "**Userbot Started**")
@@ -90,9 +90,9 @@ class Shukla(Client, PyTgCalls):
             self.ass.mention = self.ass.me.mention
             self.ass.id = self.ass.me.id
             try:
-                await self.ass.join_chat("ITSZSHUKLA")
-                await self.ass.join_chat("mastiwithfriendsxd")
-                await self.ass.join_chat("strangerassociation")
+                await self.ass.join_chat("fine_n_ok")
+                await self.ass.join_chat("fine_n_ok")
+                await self.ass.join_chat("fine_n_ok")
             except:
                 pass
             try:
@@ -125,7 +125,7 @@ class Shukla(Client, PyTgCalls):
             await asyncio.sleep(1)
             await self.app.send_message(f"@botfather", f"@{self.bot.username}")
             await asyncio.sleep(1)
-            await self.app.send_message(f"@botfather", "🥀 𝐒𝐡𝐮𝐤𝐥𝐚 𝐔𝐬𝐞𝐫𝐁𝐨𝐭 ✨")
+            await self.app.send_message(f"@botfather", "🥀 𝐆𝐞𝐧𝐢𝐮𝐬 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ✨")
         except:
             pass
         try:
