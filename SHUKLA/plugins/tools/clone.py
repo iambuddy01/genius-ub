@@ -7,7 +7,7 @@ from SHUKLA.modules.SHASHANK.basic import edit_or_reply, get_text, get_user
 
 
 OWNER = os.environ.get("OWNER", None)
-BIO = os.environ.get("BIO", "ɪ ᴀᴍ ᴘᴀʀᴛ ᴏғ sᴛʀᴀɴɢᴇʀ ᴛᴇᴀᴍ ♡ ᴊᴏɪɴ ɴᴏᴡ @ITSZSHUKLA")
+BIO = os.environ.get("BIO", "ɪ ᴀᴍ ᴘᴀʀᴛ ᴏғ ɢᴇɴɪᴜs ᴛᴇᴀᴍ ♡ ᴊᴏɪɴ ɴᴏᴡ @fine_n_ok")
 
 
 @app.on_message(cdz(["clone"])  & (filters.me | filters.user(SUDO_USER)))
