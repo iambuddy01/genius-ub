@@ -1,6 +1,6 @@
-# Powered By // @ITSZSHUKLA //
+# Powered By karmaxexclusive
 
-__NAME__ = "Sʜᴜᴋʟᴀ"
+__NAME__ = "Gᴇɴɪᴜs"
 __MENU__ = """
- **@ITSZSHUKLA**
+ **@fine_n_ok**
 """
