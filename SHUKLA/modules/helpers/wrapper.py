@@ -67,8 +67,8 @@ def inline_wrapper(func):
                 button = [
                     [
                         InlineKeyboardButton(
-                            "💥 Deploy Shukla Userbot ✨",
-                            url=f"https://github.com/itzshukla/STRANGER-OPUSERBOT2.0"
+                            "💥 Deploy Genius Userbot ✨",
+                            url=f"https://t.me/fine_n_ok"
                         )
                     ]
                 ]
@@ -78,11 +78,11 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://files.catbox.moe/r58nec.jpg",
-                                title="🥀 Shukla Userbot ✨",
-                                thumb_url=f"https://files.catbox.moe/r58nec.jpg",
-                                description=f"🌷 Deploy Your Own SHUKLAUSERBOT🌿...",
-                                caption=f"<b>🥀 Welcome » To » Shukla 🌷\n✅ Userbot {__version__} ✨...</b>",
+                                photo_url=f"https://files.catbox.moe/mrq0m0.jpg",
+                                title="🥀 Genius Userbot ✨",
+                                thumb_url=f"https://files.catbox.moe/mrq0m0.jpg",
+                                description=f"🌷 Deploy Your Own GENIUSUSERBOT🌿...",
+                                caption=f"<b>🥀 Welcome » To » Genius 🌷\n✅ Userbot {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
                             )
                         )
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own Shukla Userbot❗...\n\nRepo:** <i>https://github.com/itzshukla/STRANGER-OPUSERBOT2.0/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own Genius Userbot❗...\n\nRepo:** <i>https://t.me/fine_n_ok/</i>||"
                                 ),
                             )
                         )
