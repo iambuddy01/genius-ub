@@ -1,14 +1,14 @@
 {
-  "name": "SHUKLAUSERBOT",
-  "description": "SHUKLAUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
-  "logo": "https://telegra.ph/file/7a2e0a67e160deb60e48b.jpg",
+  "name": "GENIUSUSERBOT",
+  "description": "GENIUSUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
+  "logo": "https://files.catbox.moe/mrq0m0.jpg",
   "keywords": [
-    "SHUKLAUSERBOT",
+    "GENIUSUSERBOT",
     "telegram-userbot",
     "telegram-music-bot",
     "telegram-video-bot"
   ],
-  "repository": "https://github.com/itzshukla/STRANGER-OPUSERBOT2.0",
+  "repository": "https://github.com/karmaxexclusive/Genius-Ub",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
