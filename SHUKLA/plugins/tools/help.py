@@ -62,7 +62,7 @@ sʜᴜᴋʟᴀ ᴜsᴇʀʙᴏᴛ  » {__version__} ✨
 ❤️ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ
 ɢᴇᴛ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs ❤️.
  
-🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [SHUKLA TECH](https://t.me/ITSZSHUKLA) 🌹**
+🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [DEV](https://t.me/fine_n_ok) 🌹**
 """
     
     if plug_match:
